@@ -7,3 +7,6 @@ composer require phpmailer/phpmailer
 4. Menggunakan PHPMailer
 Berikut adalah contoh penggunaan PHPMailer untuk mengirim email notifikasi
 5. Uji coba
+
+video demo
+https://www.youtube.com/watch?v=y6cHixb8xxk
