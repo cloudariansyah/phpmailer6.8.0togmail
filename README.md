@@ -10,3 +10,4 @@ Berikut adalah contoh penggunaan PHPMailer untuk mengirim email notifikasi
 
 video demo
 https://www.youtube.com/watch?v=y6cHixb8xxk
+https://www.youtube.com/watch?v=6ytOeco5YhY
