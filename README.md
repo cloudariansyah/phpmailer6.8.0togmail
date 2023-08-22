@@ -6,11 +6,15 @@ composer require phpmailer/phpmailer
 3. Membuat Form Kirim email
  <form name="sendmail" method="POST" enctype="multipart/form-data">
         <label for="tujuan">Tujuan Email:</label>
-        <input type="email" id="tujuan" name="tujuan" required><br><br><label for="subjek">Subjek:</label>
-        <input type="text" id="subjek" name="subjek" required><br><br>        
+        <input type="email" id="tujuan" name="tujuan" required><br><br>
+        
+        <label for="subjek">Subjek:</label>
+        <input type="text" id="subjek" name="subjek" required><br><br>
+        
         <label for="pesan">Pesan:</label><br>
         <textarea id="pesan" name="pesan" rows="4" cols="50" required></textarea><br><br>
-               <input type="submit" name="sendmail" value="Kirim Email">
+        
+        <input type="submit" name="sendmail" value="Kirim Email">
     </form>
 
 4. Menggunakan PHPMailer
